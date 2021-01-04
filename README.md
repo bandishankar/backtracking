@@ -1,4 +1,4 @@
-# backtracking process is used to generate exaustive search .
+# backtracking .
 
 Many problems can be solved using it. 
 
